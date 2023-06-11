@@ -1,2 +1,1 @@
-# PrepCourse-Genry
-Este es mi primer repositorio de Henry
+Este eproyecto es una prueba de como crear unr epositorio
